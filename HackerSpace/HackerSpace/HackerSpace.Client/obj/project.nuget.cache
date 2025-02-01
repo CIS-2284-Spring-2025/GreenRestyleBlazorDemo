@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ouDQ8A1oCRc=",
+  "dgSpecHash": "1YTROL0x91s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daria\\OneDrive - Central New Mexico Community College\\CNM\\Spring 2025\\CIS 2284 - Net II - C#\\Comp4\\HackerSpace\\HackerSpace\\HackerSpace.Client\\HackerSpace.Client.csproj",
+  "projectFilePath": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace.Client\\HackerSpace.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daria\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.12\\microsoft.aspnetcore.authorization.8.0.12.nupkg.sha512",
     "C:\\Users\\Daria\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.12\\microsoft.aspnetcore.components.8.0.12.nupkg.sha512",
