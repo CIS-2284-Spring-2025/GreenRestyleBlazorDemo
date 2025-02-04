@@ -49,16 +49,28 @@
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1148"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00224mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\u0022"},{"Name":"Last-Modified","Value":"Sat, 01 Feb 2025 18:49:39 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HackerSpace/HackerSpace.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\HackerSpace.lgwehr2qu0.bundle.scp.css'))</AssetFile>
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\HackerSpace.dwejhfu409.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1TgMrf4bzS97z4X4Yb8XLrW6wYQjtSf09a7fkB3z5gM="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8193"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00221TgMrf4bzS97z4X4Yb8XLrW6wYQjtSf09a7fkB3z5gM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 01 Feb 2025 19:27:23 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Lf8RqdRQW1Atc0W53snItxcDmYYTCqpX7M4512xD71A="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8228"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Lf8RqdRQW1Atc0W53snItxcDmYYTCqpX7M4512xD71A=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 01:33:43 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/HackerSpace/HackerSpace.lgwehr2qu0.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\HackerSpace.lgwehr2qu0.bundle.scp.css'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/HackerSpace/HackerSpace.dwejhfu409.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\HackerSpace.dwejhfu409.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lgwehr2qu0"},{"Name":"integrity","Value":"sha256-1TgMrf4bzS97z4X4Yb8XLrW6wYQjtSf09a7fkB3z5gM="},{"Name":"label","Value":"_content/HackerSpace/HackerSpace.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8193"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00221TgMrf4bzS97z4X4Yb8XLrW6wYQjtSf09a7fkB3z5gM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 01 Feb 2025 19:27:23 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dwejhfu409"},{"Name":"integrity","Value":"sha256-Lf8RqdRQW1Atc0W53snItxcDmYYTCqpX7M4512xD71A="},{"Name":"label","Value":"_content/HackerSpace/HackerSpace.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8228"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Lf8RqdRQW1Atc0W53snItxcDmYYTCqpX7M4512xD71A=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 01:33:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HackerSpace/images/hackerspacelogo.2m92pfpssk.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\hackerspacelogo.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2m92pfpssk"},{"Name":"integrity","Value":"sha256-KoJF02gfEtwdQi3P6KCbm6WSGfVZkpxRlAMafpvEXmU="},{"Name":"label","Value":"_content/HackerSpace/images/hackerspacelogo.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"35501"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022KoJF02gfEtwdQi3P6KCbm6WSGfVZkpxRlAMafpvEXmU=\u0022"},{"Name":"Last-Modified","Value":"Sat, 01 Feb 2025 19:31:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HackerSpace/images/hackerspacelogo.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\hackerspacelogo.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KoJF02gfEtwdQi3P6KCbm6WSGfVZkpxRlAMafpvEXmU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"35501"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022KoJF02gfEtwdQi3P6KCbm6WSGfVZkpxRlAMafpvEXmU=\u0022"},{"Name":"Last-Modified","Value":"Sat, 01 Feb 2025 19:31:17 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

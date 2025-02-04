@@ -170,3 +170,8 @@ C:\Users\Daria\source\GreenRestyleBlazorDemo\HackerSpace\HackerSpace\HackerSpace
 C:\Users\Daria\source\GreenRestyleBlazorDemo\HackerSpace\HackerSpace\HackerSpace\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\Daria\source\GreenRestyleBlazorDemo\HackerSpace\HackerSpace\HackerSpace\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Daria\source\GreenRestyleBlazorDemo\HackerSpace\HackerSpace\HackerSpace\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Daria\source\GreenRestyleBlazorDemo\HackerSpace\HackerSpace\HackerSpace\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Daria\source\GreenRestyleBlazorDemo\HackerSpace\HackerSpace\HackerSpace\bin\Debug\net8.0\MailKit.dll
+C:\Users\Daria\source\GreenRestyleBlazorDemo\HackerSpace\HackerSpace\HackerSpace\bin\Debug\net8.0\MimeKit.dll
+C:\Users\Daria\source\GreenRestyleBlazorDemo\HackerSpace\HackerSpace\HackerSpace\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Daria\source\GreenRestyleBlazorDemo\HackerSpace\HackerSpace\HackerSpace\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll

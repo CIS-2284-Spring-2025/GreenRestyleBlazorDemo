@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Zt9ahihKodWqlc3/h7+In9snZUHMIMyIDOC3v7hQ3gM=",
+  "Hash": "h05aMORtw6LZ1AhrhcOm58UeH6sSQgG9T0Hbp190rHw=",
   "Source": "HackerSpace",
   "BasePath": "_content/HackerSpace",
   "Mode": "Default",
@@ -8807,8 +8807,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "lgwehr2qu0",
-      "Integrity": "1TgMrf4bzS97z4X4Yb8XLrW6wYQjtSf09a7fkB3z5gM=",
+      "Fingerprint": "dwejhfu409",
+      "Integrity": "Lf8RqdRQW1Atc0W53snItxcDmYYTCqpX7M4512xD71A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HackerSpace.styles.css"
@@ -8828,8 +8828,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "lgwehr2qu0",
-      "Integrity": "1TgMrf4bzS97z4X4Yb8XLrW6wYQjtSf09a7fkB3z5gM=",
+      "Fingerprint": "dwejhfu409",
+      "Integrity": "Lf8RqdRQW1Atc0W53snItxcDmYYTCqpX7M4512xD71A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HackerSpace.bundle.scp.css"
@@ -8917,6 +8917,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\wwwroot\\images\\hackerspacelogo.png",
+      "SourceId": "HackerSpace",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\wwwroot\\",
+      "BasePath": "_content/HackerSpace",
+      "RelativePath": "images/hackerspacelogo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2m92pfpssk",
+      "Integrity": "KoJF02gfEtwdQi3P6KCbm6WSGfVZkpxRlAMafpvEXmU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\hackerspacelogo.png"
     }
   ],
   "Endpoints": [
@@ -37819,7 +37840,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8193"
+          "Value": "8228"
         },
         {
           "Name": "Content-Type",
@@ -37827,11 +37848,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1TgMrf4bzS97z4X4Yb8XLrW6wYQjtSf09a7fkB3z5gM=\""
+          "Value": "\"Lf8RqdRQW1Atc0W53snItxcDmYYTCqpX7M4512xD71A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 19:27:23 GMT"
+          "Value": "Tue, 04 Feb 2025 01:33:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37841,12 +37862,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1TgMrf4bzS97z4X4Yb8XLrW6wYQjtSf09a7fkB3z5gM="
+          "Value": "sha256-Lf8RqdRQW1Atc0W53snItxcDmYYTCqpX7M4512xD71A="
         }
       ]
     },
     {
-      "Route": "HackerSpace.lgwehr2qu0.bundle.scp.css",
+      "Route": "HackerSpace.dwejhfu409.bundle.scp.css",
       "AssetFile": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HackerSpace.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -37856,7 +37877,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8193"
+          "Value": "8228"
         },
         {
           "Name": "Content-Type",
@@ -37864,11 +37885,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1TgMrf4bzS97z4X4Yb8XLrW6wYQjtSf09a7fkB3z5gM=\""
+          "Value": "\"Lf8RqdRQW1Atc0W53snItxcDmYYTCqpX7M4512xD71A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 19:27:23 GMT"
+          "Value": "Tue, 04 Feb 2025 01:33:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37878,7 +37899,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lgwehr2qu0"
+          "Value": "dwejhfu409"
         },
         {
           "Name": "label",
@@ -37886,12 +37907,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1TgMrf4bzS97z4X4Yb8XLrW6wYQjtSf09a7fkB3z5gM="
+          "Value": "sha256-Lf8RqdRQW1Atc0W53snItxcDmYYTCqpX7M4512xD71A="
         }
       ]
     },
     {
-      "Route": "HackerSpace.lgwehr2qu0.styles.css",
+      "Route": "HackerSpace.dwejhfu409.styles.css",
       "AssetFile": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HackerSpace.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -37901,7 +37922,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8193"
+          "Value": "8228"
         },
         {
           "Name": "Content-Type",
@@ -37909,11 +37930,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1TgMrf4bzS97z4X4Yb8XLrW6wYQjtSf09a7fkB3z5gM=\""
+          "Value": "\"Lf8RqdRQW1Atc0W53snItxcDmYYTCqpX7M4512xD71A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 19:27:23 GMT"
+          "Value": "Tue, 04 Feb 2025 01:33:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37923,7 +37944,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lgwehr2qu0"
+          "Value": "dwejhfu409"
         },
         {
           "Name": "label",
@@ -37931,7 +37952,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1TgMrf4bzS97z4X4Yb8XLrW6wYQjtSf09a7fkB3z5gM="
+          "Value": "sha256-Lf8RqdRQW1Atc0W53snItxcDmYYTCqpX7M4512xD71A="
         }
       ]
     },
@@ -37946,7 +37967,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8193"
+          "Value": "8228"
         },
         {
           "Name": "Content-Type",
@@ -37954,11 +37975,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1TgMrf4bzS97z4X4Yb8XLrW6wYQjtSf09a7fkB3z5gM=\""
+          "Value": "\"Lf8RqdRQW1Atc0W53snItxcDmYYTCqpX7M4512xD71A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Feb 2025 19:27:23 GMT"
+          "Value": "Tue, 04 Feb 2025 01:33:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37968,7 +37989,89 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1TgMrf4bzS97z4X4Yb8XLrW6wYQjtSf09a7fkB3z5gM="
+          "Value": "sha256-Lf8RqdRQW1Atc0W53snItxcDmYYTCqpX7M4512xD71A="
+        }
+      ]
+    },
+    {
+      "Route": "images/hackerspacelogo.2m92pfpssk.png",
+      "AssetFile": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\wwwroot\\images\\hackerspacelogo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KoJF02gfEtwdQi3P6KCbm6WSGfVZkpxRlAMafpvEXmU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Feb 2025 19:31:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2m92pfpssk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/hackerspacelogo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KoJF02gfEtwdQi3P6KCbm6WSGfVZkpxRlAMafpvEXmU="
+        }
+      ]
+    },
+    {
+      "Route": "images/hackerspacelogo.png",
+      "AssetFile": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\wwwroot\\images\\hackerspacelogo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KoJF02gfEtwdQi3P6KCbm6WSGfVZkpxRlAMafpvEXmU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Feb 2025 19:31:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KoJF02gfEtwdQi3P6KCbm6WSGfVZkpxRlAMafpvEXmU="
         }
       ]
     }

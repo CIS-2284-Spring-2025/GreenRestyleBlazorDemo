@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HackerSpace.bundle.scp.css",
-      "PackagePath": "staticwebassets\\HackerSpace.lgwehr2qu0.bundle.scp.css"
+      "PackagePath": "staticwebassets\\HackerSpace.dwejhfu409.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\wwwroot\\app.css",
@@ -19,6 +19,10 @@
     {
       "Id": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\wwwroot\\images\\hackerspacelogo.png",
+      "PackagePath": "staticwebassets\\images\\hackerspacelogo.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HackerSpace.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

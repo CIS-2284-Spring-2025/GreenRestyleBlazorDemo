@@ -3,36 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\Data\\Migrations\\20250201202556_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HackerSpace\\HackerSpace\\Data\\Migrations\\20250201202556_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA5DEA07-9790-44CC-87F6-DA4B8EDEA9A5}|HackerSpace\\HackerSpace\\HackerSpace.csproj|c:\\users\\daria\\source\\greenrestyleblazordemo\\hackerspace\\hackerspace\\hackerspace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA5DEA07-9790-44CC-87F6-DA4B8EDEA9A5}|HackerSpace\\HackerSpace\\HackerSpace.csproj|solutionrelative:hackerspace\\hackerspace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA5DEA07-9790-44CC-87F6-DA4B8EDEA9A5}|HackerSpace\\HackerSpace\\HackerSpace.csproj|c:\\users\\daria\\source\\greenrestyleblazordemo\\hackerspace\\hackerspace\\hackerspace\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EA5DEA07-9790-44CC-87F6-DA4B8EDEA9A5}|HackerSpace\\HackerSpace\\HackerSpace.csproj|solutionrelative:hackerspace\\hackerspace\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA5DEA07-9790-44CC-87F6-DA4B8EDEA9A5}|HackerSpace\\HackerSpace\\HackerSpace.csproj|c:\\users\\daria\\source\\greenrestyleblazordemo\\hackerspace\\hackerspace\\hackerspace\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EA5DEA07-9790-44CC-87F6-DA4B8EDEA9A5}|HackerSpace\\HackerSpace\\HackerSpace.csproj|solutionrelative:hackerspace\\hackerspace\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{EA5DEA07-9790-44CC-87F6-DA4B8EDEA9A5}|HackerSpace\\HackerSpace\\HackerSpace.csproj|c:\\users\\daria\\source\\greenrestyleblazordemo\\hackerspace\\hackerspace\\hackerspace\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EA5DEA07-9790-44CC-87F6-DA4B8EDEA9A5}|HackerSpace\\HackerSpace\\HackerSpace.csproj|solutionrelative:hackerspace\\hackerspace\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA5DEA07-9790-44CC-87F6-DA4B8EDEA9A5}|HackerSpace\\HackerSpace\\HackerSpace.csproj|c:\\users\\daria\\source\\greenrestyleblazordemo\\hackerspace\\hackerspace\\hackerspace\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EA5DEA07-9790-44CC-87F6-DA4B8EDEA9A5}|HackerSpace\\HackerSpace\\HackerSpace.csproj|solutionrelative:hackerspace\\hackerspace\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EA5DEA07-9790-44CC-87F6-DA4B8EDEA9A5}|HackerSpace\\HackerSpace\\HackerSpace.csproj|c:\\users\\daria\\source\\greenrestyleblazordemo\\hackerspace\\hackerspace\\hackerspace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA5DEA07-9790-44CC-87F6-DA4B8EDEA9A5}|HackerSpace\\HackerSpace\\HackerSpace.csproj|solutionrelative:hackerspace\\hackerspace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA5DEA07-9790-44CC-87F6-DA4B8EDEA9A5}|HackerSpace\\HackerSpace\\HackerSpace.csproj|c:\\users\\daria\\source\\greenrestyleblazordemo\\hackerspace\\hackerspace\\hackerspace\\components\\account\\pages\\serverauth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EA5DEA07-9790-44CC-87F6-DA4B8EDEA9A5}|HackerSpace\\HackerSpace\\HackerSpace.csproj|solutionrelative:hackerspace\\hackerspace\\components\\account\\pages\\serverauth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC5AE5CE-F659-4387-9B0E-E0CDB2DA5EF9}|HackerSpace\\HackerSpace.Client\\HackerSpace.Client.csproj|c:\\users\\daria\\source\\greenrestyleblazordemo\\hackerspace\\hackerspace\\hackerspace.client\\persistentauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC5AE5CE-F659-4387-9B0E-E0CDB2DA5EF9}|HackerSpace\\HackerSpace.Client\\HackerSpace.Client.csproj|solutionrelative:hackerspace\\hackerspace.client\\persistentauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA5DEA07-9790-44CC-87F6-DA4B8EDEA9A5}|HackerSpace\\HackerSpace\\HackerSpace.csproj|c:\\users\\daria\\source\\greenrestyleblazordemo\\hackerspace\\hackerspace\\hackerspace\\components\\account\\persistingrevalidatingauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA5DEA07-9790-44CC-87F6-DA4B8EDEA9A5}|HackerSpace\\HackerSpace\\HackerSpace.csproj|solutionrelative:hackerspace\\hackerspace\\components\\account\\persistingrevalidatingauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC5AE5CE-F659-4387-9B0E-E0CDB2DA5EF9}|HackerSpace\\HackerSpace.Client\\HackerSpace.Client.csproj|c:\\users\\daria\\source\\greenrestyleblazordemo\\hackerspace\\hackerspace\\hackerspace.client\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,110 +43,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20250201202556_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\Data\\Migrations\\20250201202556_InitialCreate.cs",
-              "RelativeDocumentMoniker": "HackerSpace\\HackerSpace\\Data\\Migrations\\20250201202556_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\Data\\Migrations\\20250201202556_InitialCreate.cs",
-              "RelativeToolTip": "HackerSpace\\HackerSpace\\Data\\Migrations\\20250201202556_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T20:25:56.409Z",
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "HackerSpace\\HackerSpace\\Components\\Layout\\NavMenu.razor.css",
+              "ToolTip": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeToolTip": "HackerSpace\\HackerSpace\\Components\\Layout\\NavMenu.razor.css",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-04T01:14:29.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\appsettings.json",
-              "RelativeDocumentMoniker": "HackerSpace\\HackerSpace\\appsettings.json",
-              "ToolTip": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\appsettings.json",
-              "RelativeToolTip": "HackerSpace\\HackerSpace\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-01T20:10:34.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "HackerSpace\\HackerSpace\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\appsettings.Development.json",
-              "RelativeToolTip": "HackerSpace\\HackerSpace\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-01T20:10:13.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "HackerSpace\\HackerSpace\\Components\\Layout\\NavMenu.razor",
               "ToolTip": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "HackerSpace\\HackerSpace\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAACcAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAIAwwA4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-01T19:49:19.145Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "ServerAuth.razor",
               "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\Components\\Account\\Pages\\ServerAuth.razor",
               "RelativeDocumentMoniker": "HackerSpace\\HackerSpace\\Components\\Account\\Pages\\ServerAuth.razor",
               "ToolTip": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\Components\\Account\\Pages\\ServerAuth.razor",
               "RelativeToolTip": "HackerSpace\\HackerSpace\\Components\\Account\\Pages\\ServerAuth.razor",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAIBJwE0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-01T19:48:27.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\Program.cs",
               "RelativeDocumentMoniker": "HackerSpace\\HackerSpace\\Program.cs",
               "ToolTip": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\Program.cs",
               "RelativeToolTip": "HackerSpace\\HackerSpace\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwCMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-01T19:22:37.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PersistentAuthenticationStateProvider.cs",
-              "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace.Client\\PersistentAuthenticationStateProvider.cs",
-              "RelativeDocumentMoniker": "HackerSpace\\HackerSpace.Client\\PersistentAuthenticationStateProvider.cs",
-              "ToolTip": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace.Client\\PersistentAuthenticationStateProvider.cs",
-              "RelativeToolTip": "HackerSpace\\HackerSpace.Client\\PersistentAuthenticationStateProvider.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T19:37:21.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PersistingRevalidatingAuthenticationStateProvider.cs",
-              "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\Components\\Account\\PersistingRevalidatingAuthenticationStateProvider.cs",
-              "RelativeDocumentMoniker": "HackerSpace\\HackerSpace\\Components\\Account\\PersistingRevalidatingAuthenticationStateProvider.cs",
-              "ToolTip": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace\\Components\\Account\\PersistingRevalidatingAuthenticationStateProvider.cs",
-              "RelativeToolTip": "HackerSpace\\HackerSpace\\Components\\Account\\PersistingRevalidatingAuthenticationStateProvider.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGIAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T19:34:55.253Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "UserInfo.cs",
               "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenRestyleBlazorDemo\\HackerSpace\\HackerSpace\\HackerSpace.Client\\UserInfo.cs",
               "RelativeDocumentMoniker": "HackerSpace\\HackerSpace.Client\\UserInfo.cs",

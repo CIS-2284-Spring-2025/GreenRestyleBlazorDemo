@@ -166,7 +166,7 @@ main[b-jmzzgnqo7d] {
 
 .nav-item[b-tgio31dpnf] {
     font-size: 0.9rem;
-    padding-bottom: 0.5rem;
+    padding-bottom: 0.5rem;  
 }
 
     .nav-item:first-of-type[b-tgio31dpnf] {
@@ -199,8 +199,10 @@ main[b-jmzzgnqo7d] {
     color: white;
 }
 
+
 .nav-scrollable[b-tgio31dpnf] {
     display: none;
+    background-color: #003A70
 }
 
 .navbar-toggler:checked ~ .nav-scrollable[b-tgio31dpnf] {
