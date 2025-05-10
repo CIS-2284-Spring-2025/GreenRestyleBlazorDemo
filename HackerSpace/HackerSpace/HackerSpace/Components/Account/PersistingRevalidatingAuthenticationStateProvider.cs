@@ -88,6 +88,7 @@ namespace HackerSpace.Components.Account
             {
                 var userId = principal.FindFirst(options.ClaimsIdentity.UserIdClaimType)?.Value;
                 var email = principal.FindFirst(options.ClaimsIdentity.EmailClaimType)?.Value;
+                var roles = principal.FindAll(ClaimTypes.Role).Select(x => x.Value); 
 
                 if (userId != null && email != null)
                 {
@@ -95,6 +96,7 @@ namespace HackerSpace.Components.Account
                     {
                         UserId = userId,
                         Email = email,
+                        Roles = roles,
                     });
                 }
             }
